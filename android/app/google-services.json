@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954155866715",
+    "project_id": "busy-bee-a55ef",
+    "storage_bucket": "busy-bee-a55ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954155866715:android:d6f36ae6a7997413d07d7e",
+        "android_client_info": {
+          "package_name": "com.example.busy_bee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuPX0ZIjL9HWEoYId-lNYFtGCOppL21f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
